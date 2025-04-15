@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1744168180 source:d:\hoc\skyfall\player.cpp
+	"Player.h"
+
+1744168143 d:\hoc\skyfall\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1744168410 source:d:\hoc\skyfall\explosion.cpp
+	"Explosion.h"
+
+1744168581 d:\hoc\skyfall\explosion.h
+	<SDL.h>
+
+1744168586 source:d:\hoc\skyfall\background.cpp
+	"Background.h"
+	<SDL_image.h>
+
+1744168578 d:\hoc\skyfall\background.h
+	<SDL.h>
+
+1744745182 source:d:\hoc\skyfall\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<algorithm>
+	"defs.h"
+	"graphics.h"
+	"events.h"
+	"update.h"
+	"render.h"
+	"renderButton.h"
+	"shoot.h"
+
+1744743922 d:\hoc\skyfall\defs.h
+
+1744745576 d:\hoc\skyfall\graphics.h
+	"defs.h"
+
+1744744817 d:\hoc\skyfall\events.h
+	"defs.h"
+	"graphics.h"
+
+1744745426 d:\hoc\skyfall\update.h
+	"defs.h"
+	"graphics.h"
+
+1744746119 d:\hoc\skyfall\render.h
+	"defs.h"
+	"graphics.h"
+
+1744744817 d:\hoc\skyfall\renderbutton.h
+	"defs.h"
+	"graphics.h"
+
+1744745107 d:\hoc\skyfall\shoot.h
+	"defs.h"
+	"graphics.h"
+
